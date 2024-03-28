@@ -12,7 +12,7 @@ Eunos Crescent Community Garden
 | Plot 3   | Green Bayam, Tomato |
 | Fence beside 3 | Rock Melon, Papaya, Passionfruit |
 | Plot 4   | Green Bayam, Sweet Pepper |
-| Fence behind shed | Bittergourd(?), Eggplant(?), Pandan, Passionfruit, Papaya, Rock Melon |
+| Fence behind shed | Cucumber, Eggplant(?), Green Beans, Pandan, Passionfruit, Papaya, Pumpkin, Rock Melon |
 | Plot 5   | Devil's Chilli, Red Amaranth, Red Bayam |
 | Plot 6   | Cai Xin |
 | Fence beside 6 | Green Bittergourd, White Bittergourd, Winged Beans, Roselle, Indian Borage, Avocado(?) |
@@ -26,7 +26,7 @@ Eunos Crescent Community Garden
 | Fence near 10 behind palm tree | Sweet Basil |
 | Plot 11  | Ginger, Green Bayam |
 | Plot 12  | Green Bayam, Basil, Rosemary, Tomato |
-| Fence beside largest palm tree | Bittergourd, Chilli, Longan, Mulberry, Papaya, Rhoeo (Ang Tek Heok), Soursoup |
+| Fence beside 15 | Bittergourd, Chilli, Longan, Mulberry, Papaya, Rhoeo (Ang Tek Heok), Soursoup, Tomato |
 | Plot 13  | Red Bayam |
 | Plot 14  | Red Bayam |
 | Plot 15  | Red Bayam |
